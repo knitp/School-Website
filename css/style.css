@@ -40,6 +40,8 @@ color:white;
 {
     width:40%;
     background-color: chocolate;
+    display: flex;
+    justify-content:flex-end;
 }
 .rightnav li{
     list-style: none;
